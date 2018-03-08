@@ -87,7 +87,7 @@ Here's the full code of this version. </br>
       }
     }
     
-Here's the link to the video: </br>
+Here's the link to the video showing how it works: </br>
 https://drive.google.com/open?id=1QqiZkhrF3LSzVfZM7uT4oeBFitAybKEA
 
 Schematic </br>
