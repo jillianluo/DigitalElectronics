@@ -22,7 +22,9 @@
 </html>
 
 ### Diagram
-
+<html>
+  <img src = "https://github.com/JinghanLuo/DigitalElectronics/blob/master/Final/images/schematic_final.jpg">
+</html>
 
 ### Final Outcome
 <html>
