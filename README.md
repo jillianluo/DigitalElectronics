@@ -1,5 +1,5 @@
 # Digital Electronics
-Jillian
+CCA Spring 2018
 
 ## Week 2
 
