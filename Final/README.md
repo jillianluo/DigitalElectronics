@@ -37,6 +37,3 @@ Eye cube
 <html>
   <img src = "https://github.com/JinghanLuo/DigitalElectronics/blob/master/Final/images/spyeye.jpg">
 </html>
-
-### Video Demo
-link: https://drive.google.com/open?id=1bFwKotFqzkhJ-VyMRx77ZK9sI42FMzq5
